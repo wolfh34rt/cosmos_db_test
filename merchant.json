@@ -1,0 +1,38 @@
+{
+    "merchantId" : "1",
+    "is_company" : "false",
+    "company_name" : "Six Wolf Media LTD.",
+    "prefix" : "",
+    "first_name" : "PChan",
+    "middle_initial" : "",
+    "full_name" : "Phanat Chan",
+    "suffix" : "",
+    "email_address" : "pchan@fulfillmentiq.com",
+    "address" : [
+        {
+            "address_id" : "1"
+        }
+    ],
+    "country_code" : "CA",
+    "mobile_phone" : "",
+    "phone" : "",
+    "url" : "https://sixwolfmedia.com",
+    "fax" : "",
+    "send_email" : "true",
+    "email_category" : "",
+    "pref_language" : "English",
+    "type" : "",
+    "status" : "",
+    "bill_addr_name" : "",
+    "pay_terms" : "",
+    "inactive" : "",
+    "inactive_date" : "",
+    "enroll_date" : "",
+    "customer_ship" : "",
+    "track_equipment" : "",
+    "track_history" : "",
+    "created_on" : "",
+    "created_by" : "",
+    "modified_on" : "",
+    "modified_by" : ""
+}
