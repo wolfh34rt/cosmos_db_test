@@ -10,7 +10,7 @@ namespace SixWolfMedia.DB
     {
         public static async Task Run()
         {
-            using (var context = new FIQContext())
+            using (var context = new SWMContext())
             {
                 // deletes existing db
                 await context.Database.EnsureDeletedAsync();
